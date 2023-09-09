@@ -27090,11 +27090,11 @@ var _stylesCss = require("./styles.css");
     name: "Mizbaul Haque Maruf",
     title: "Software Developer & Machine Learning Enthusiast",
     email: "mizbaulhaque007@gmail.com",
-    gitHub: "https://github.com/MizbaulHaqueMaruf",
+    gitHub: "MizbaulHaqueMaruf",
     // instagram: "microsoft",
-    linkedIn: "www.linkedin.com/in/mizbaulhaquemaruf",
-    medium: "https://medium.com/@mizbaulhaque007",
-    twitter: "https://twitter.com/mizbaul_haque"
+    linkedIn: "mizbaulhaquemaruf",
+    medium: "mizbaulhaque007",
+    twitter: "mizbaul_haque"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -28714,7 +28714,7 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/Portfolio Website photo.jpg":"fkLxj"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/Portfolio Website photo.jpg":"fkLxj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"fkLxj":[function(require,module,exports) {
